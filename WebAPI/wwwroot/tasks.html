@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Task List - Task Manager</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link rel="stylesheet" href="./styles.css" />
+</head>
+
+<body>
+    <div id="app">
+        <navbar current-page="tasks" search-placeholder="Search task name..." @search="onSearch"></navbar>
+
+        <div class="container">
+            <h1>📝 Task List</h1>
+
+            <!-- Search Results -->
+            <div v-if="searchTerm && filteredList.length > 0">
+                <h2>Search Results for "{{ searchTerm }}"</h2>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Task Name</th>
+                            <th>Employee ID</th>
+                            <th>Category ID</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="task in filteredList" :key="task.id">
+                            <td>{{ task.id }}</td>
+                            <td>{{ task.taskName }}</td>
+                            <td>{{ task.employeeId || '-' }}</td>
+                            <td>{{ task.categoryId || '-' }}</td>
+                            <td>
+                                <span class="status-badge" :class="task.taskStatus ? 'status-done' : 'status-pending'">
+                                    {{ task.taskStatus ? 'Hoàn thành' : 'Đang xử lý' }}
+                                </span>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="error" v-else-if="searchTerm">
+                <p>No results found!</p>
+            </div>
+
+            <!-- Task Table -->
+            <div class="under_title">
+                <button class="add"
+                    @click="openEdit({ id: '', taskName: '', employeeId: '', categoryId: '', taskStatus: false })">
+                    Add Task
+                </button>
+                <label for="pageNum">Rows of page: </label>
+                <input 
+                    type="number" 
+                    id="pageNum"
+                    :placeholder="number" 
+                    v-model.number="perPageSample"
+                    @keyup.enter="onPageChange(1)"
+                >
+                <!-- <pagination
+                    :total-pages="totalPages"
+                    :per-page="perPage"
+                    :current-page="currentPage"
+                    @pagechanged="onPageChanged"
+                ></pagination> -->
+            </div>
+            <div class="dialog_box">
+                <dialog :open="editingTaskId === ''">
+                    <h2 class="title">Edit Task</h2>
+                    <!-- <span>Task Id: </span>
+                    <input type="text" v-model="editingTask.id">
+                    <br> -->
+                    <span>Task Name: </span>
+                    <input type="text" v-model="editingTask.taskName" />
+                    <br />
+                    <span>Employee Id: </span>
+                    <select v-model="editingTask.employeeId">
+                        <option disabled value="">Please select one</option>
+                        <option v-for="e in employees" :value="e.employeeId">
+                            {{ e.employeeId }}
+                        </option>
+                    </select>
+                    <br />
+                    <span>Category Id: </span>
+                    <select v-model="editingTask.categoryId">
+                        <option disabled value="">Please select one</option>
+                        <option v-for="c in categories" :value="c.categoryId">
+                            {{ c.categoryId }}
+                        </option>
+                    </select>
+                    <br />
+                    <span>Status: </span>
+                    <select v-model="editingTask.taskStatus">
+                        <option :value="true">Hoàn thành</option>
+                        <option :value="false">Đang xử lý</option>
+                    </select>
+                    <br />
+                    <button class="edit" @click="addTask()">Save</button>
+                    <button class="delete" @click="cancelEdit()">Cancel</button>
+                </dialog>
+            </div>
+
+            <div v-if="taskLoading" class="loading">Đang tải Task...</div>
+            <div v-else-if="taskError" class="error">{{ taskError }}</div>
+            <table v-else class="data-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Task Name</th>
+                        <th>Employee ID</th>
+                        <th>Employee Name</th>
+                        <th>Category ID</th>
+                        <th>Category Name</th>
+                        <th>Department Name</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr v-for="task in paginatedTasks" :key="task.id">
+                        <td>{{ task.id }}</td>
+                        <td>{{ task.taskName }}</td>
+                        <td>{{ task.employeeId || '-' }}</td>
+                        <td>{{ task.employee?.employeeName || '-' }}</td>
+                        <td>{{ task.categoryId || '-' }}</td>
+                        <td>{{ task.category?.categoryName || '-'}}</td>
+                        <td>{{ task.employee?.department?.departmentName || '-' }}</td>
+                        <td>
+                            <span class="status-badge" :class="task.taskStatus ? 'status-done' : 'status-pending'">
+                                {{ task.taskStatus ? 'Hoàn thành' : 'Đang xử lý' }}
+                            </span>
+                        </td>
+                        <td>
+                            <button class="edit" @click="openEdit(task)">Edit</button>
+                            <button class="delete" @click="deleteTask(task.id)">
+                                Delete
+                            </button>
+
+                            <div class="dialog_box">
+                                <dialog :open="editingTaskId === task.id">
+                                    <h2 class="title">Edit Task</h2>
+                                    <span>Task Id: </span>
+                                    <input type="text" v-model="editingTask.id" disabled />
+                                    <br />
+                                    <span>Task Name: </span>
+                                    <input type="text" v-model="editingTask.taskName" />
+                                    <br />
+                                    <span>Employee Name: </span>
+                                    <!-- <select v-model="editingTask.employeeId">
+                                        <option disabled value="">Please select one</option>
+                                        <option v-for="e in employees" :value="e.employeeId">
+                                            {{ e.employeeId }}
+                                        </option>
+                                    </select> -->
+                                    <select v-model="editingTask.employeeId">
+                                        <option :value="null">-- Select Employee --</option>
+                                        <option v-for="emp in employees" :key="emp.employeeId" :value="emp.employeeId">
+                                            {{ emp.employeeName }}
+                                        </option>
+                                    </select>
+                                    <br />
+                                    <span>Category Id: </span>
+                                    <select v-model="editingTask.categoryId">
+                                        <option disabled value="">Please select one</option>
+                                        <option v-for="c in categories" :value="c.categoryId">
+                                            {{ c.categoryId }}
+                                        </option>
+                                    </select>
+                                    <br />
+                                    <span>Status: </span>
+                                    <select v-model="editingTask.taskStatus">
+                                        <option :value="true">Hoàn thành</option>
+                                        <option :value="false">Đang xử lý</option>
+                                    </select>
+                                    <br />
+                                    <button class="edit" @click="editTask()">Save</button>
+                                    <button class="delete" @click="cancelEdit()">Cancel</button>
+                                </dialog>
+                            </div>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <!-- Overlay cho edit dialog -->
+            <!-- <div class="dialog-overlay" v-if="editingTaskId" @click="cancelEdit()"></div> -->
+        </div>
+
+        <pagination :total-pages="totalPages" :per-page="perPage" :current-page="currentPage"
+            @pagechanged="onPageChange"></pagination>
+        <span class="page-info">Page {{ currentPage }} of {{ totalPages }}</span>
+    </div>
+
+    <script src="./components/pagination.js"></script>
+    <script src="./components/navbar.js"></script>
+
+    <script>
+        const { createApp, ref } = Vue;
+
+        createApp({
+            components: { Navbar, Pagination },
+            data() {
+                return {
+                    searchTerm: "",
+                    tasks: [],
+                    employees: [],
+                    categories: [],
+                    taskLoading: true,
+                    taskError: null,
+                    editingTaskId: null,
+                    editingTask: {},
+                    currentPage: 1,
+                    perPage: 2,
+                    perPageSample: 2,
+                };
+            },
+            computed: {
+                filteredList() {
+                    if (!this.searchTerm) return [];
+                    return this.tasks.filter((task) =>
+                        task.taskName
+                            .toLowerCase()
+                            .includes(this.searchTerm.toLowerCase()),
+                    );
+                },
+                totalPages() {
+                    return Math.max(1, Math.ceil(this.tasks.length / this.perPage));
+                },
+                paginatedTasks() {
+                    const start = (this.currentPage - 1) * this.perPage;
+                    return this.tasks.slice(start, start + this.perPage);
+                },
+            },
+            mounted() {
+                this.fetchTasks();
+                this.fetchEmployees();
+                this.fetchCategories();
+            },
+            methods: {
+                onSearch(term) {
+                    this.searchTerm = term;
+                },
+                async fetchTasks() {
+                    try {
+                        const response = await fetch("/api/TaskLists");
+                        if (!response.ok) throw new Error("Không thể tải Task");
+                        this.tasks = await response.json();
+                    } catch (err) {
+                        this.taskError = err.message;
+                    } finally {
+                        this.taskLoading = false;
+                    }
+                },
+                async fetchEmployees() {
+                    try {
+                        const response = await fetch("/api/EmployeeLists");
+                        if (!response.ok) throw new Error("Không thể tải Employee");
+                        this.employees = await response.json();
+                    } catch (err) {
+                        console.error(err.message);
+                    }
+                },
+                async fetchCategories() {
+                    try {
+                        const response = await fetch("/api/CategoryLists");
+                        if (!response.ok) throw new Error("Không thể tải Category");
+                        this.categories = await response.json();
+                    } catch (err) {
+                        console.error(err.message);
+                    }
+                },
+                async deleteTask(id) {
+                    if (!confirm("Bạn có chắc muốn xóa task này?")) return;
+                    try {
+                        const response = await fetch(`/api/TaskLists/delete/${id}`, {
+                            method: "POST",
+                        });
+                        if (!response.ok) throw new Error("Xóa task thất bại");
+                        this.tasks = this.tasks.filter((task) => task.id !== id);
+                    } catch (err) {
+                        alert(err.message);
+                    }
+                },
+                async editTask() {
+                    const task = this.editingTask;
+                    try {
+                        const data = {
+                            id: task.id,
+                            taskName: task.taskName,
+                            employeeId: task.employeeId,
+                            categoryId: task.categoryId,
+                            taskStatus:
+                                task.taskStatus === true || task.taskStatus === "true",
+                        };
+                        const response = await fetch(`/api/TaskLists/edit/${task.id}`, {
+                            method: "POST",
+                            headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify(data),
+                        });
+                        if (!response.ok) throw new Error("Cập nhật task thất bại");
+                        this.editingTaskId = null;
+                        await this.fetchTasks();
+                    } catch (err) {
+                        alert(err.message);
+                    }
+                },
+                async addTask() {
+                    const task = this.editingTask;
+                    try {
+                        const data = {
+                            taskName: task.taskName,
+                            employeeId: task.employeeId,
+                            categoryId: task.categoryId,
+                            taskStatus: task.taskStatus,
+                        };
+                        const response = await fetch("/api/TaskLists/add", {
+                            method: "POST",
+                            headers: { "Content-Type": "application/json" },
+                            body: JSON.stringify(data),
+                        });
+                        if (!response.ok) throw new Error("Thêm task thất bại");
+                        this.editingTaskId = null;
+                        await this.fetchTasks();
+                    } catch (err) {
+                        alert(err.message);
+                    }
+                },
+                openEdit(task) {
+                    this.editingTask = { ...task };
+                    this.editingTaskId = task.id;
+                },
+
+                cancelEdit() {
+                    this.editingTaskId = null;
+                    this.editingTask = {};
+                },
+                onPageChange(page) {
+                    console.log("Page changed to:", page);
+                    console.log("Total pages:", this.totalPages);
+                    this.perPage = this.perPageSample;
+                    if (page < 1 || page > this.totalPages) {
+                        console.warn("Invalid page number:", page);
+                        return;
+                    }
+                    this.currentPage = page;
+                },
+            },
+        }).mount("#app");
+    </script>
+</body>
+
+</html>

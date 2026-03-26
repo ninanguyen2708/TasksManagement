@@ -1,0 +1,677 @@
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\appsettings.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.endpoints.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\WebAPI.exe
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\WebAPI.deps.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\WebAPI.runtimeconfig.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\WebAPI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\WebAPI.pdb
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfo.cs
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.csproj.Up2Date
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\refint\WebAPI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.pdb
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\WebAPI.genruntimeconfig.cache
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\ref\WebAPI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Humanizer.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.runtime.json
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\compressed\jrz88kn239-{0}-z8p67x87o4-z8p67x87o4.gz
+C:\Users\Tuan Tran\Desktop\Asp.net Core\WebAPI\obj\Debug\net10.0\compressed\tja3dwboa9-{0}-fv8n12p9k9-fv8n12p9k9.gz
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\appsettings.Development.json
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\appsettings.json
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.runtime.json
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.endpoints.json
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.exe
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.deps.json
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.runtimeconfig.json
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.pdb
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Azure.Core.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Azure.Identity.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Humanizer.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.ClientModel.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.CodeDom.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.AssemblyReference.cache
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfoInputs.cache
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfo.cs
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\scopedcss\bundle\WebAPI.styles.css
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\jrz88kn239-{0}-z8p67x87o4-z8p67x87o4.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.build.json
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.development.json
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\swae.build.ex.cache
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.Up2Date
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.dll
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\refint\WebAPI.dll
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.pdb
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.genruntimeconfig.cache
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\ref\WebAPI.dll
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\tja3dwboa9-{0}-ko9jcjkb39-ko9jcjkb39.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\3x37q67pmf-{0}-21ywlrnapt-21ywlrnapt.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\382nki23qi-{0}-oyfcuc9hs2-oyfcuc9hs2.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\t25emoew1s-{0}-kt8er32esn-kt8er32esn.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\w8s3x4u7nk-{0}-2l64wdplxt-2l64wdplxt.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\y384v64ql8-{0}-clcnilss6o-clcnilss6o.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\eknvcjigjp-{0}-al1qcx2f1m-al1qcx2f1m.gz
+E:\Training\WebAPI\WebAPI\obj\Debug\net10.0\compressed\y3ih06mmho-{0}-6fsh3xkww0-6fsh3xkww0.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\appsettings.Development.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\appsettings.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.endpoints.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.runtime.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.exe
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.deps.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.runtimeconfig.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\WebAPI.pdb
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Azure.Core.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Azure.Identity.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Humanizer.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.ClientModel.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.CodeDom.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.AssemblyReference.cache
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfoInputs.cache
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfo.cs
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\scopedcss\bundle\WebAPI.styles.css
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\382nki23qi-{0}-oyfcuc9hs2-oyfcuc9hs2.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\3x37q67pmf-{0}-21ywlrnapt-21ywlrnapt.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\t25emoew1s-{0}-kt8er32esn-kt8er32esn.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\w8s3x4u7nk-{0}-2l64wdplxt-2l64wdplxt.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\y384v64ql8-{0}-clcnilss6o-clcnilss6o.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\tja3dwboa9-{0}-ko9jcjkb39-ko9jcjkb39.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\jrz88kn239-{0}-z8p67x87o4-z8p67x87o4.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\eknvcjigjp-{0}-al1qcx2f1m-al1qcx2f1m.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\compressed\y3ih06mmho-{0}-6fsh3xkww0-6fsh3xkww0.gz
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.build.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.development.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\swae.build.ex.cache
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.csproj.Up2Date
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\refint\WebAPI.dll
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.pdb
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\WebAPI.genruntimeconfig.cache
+E:\Training\ASP.NET Core\WebAPI\WebAPI\obj\Debug\net10.0\ref\WebAPI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\appsettings.Development.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\appsettings.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.endpoints.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\WebAPI.staticwebassets.runtime.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\WebAPI.exe
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\WebAPI.deps.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\WebAPI.runtimeconfig.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\WebAPI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\WebAPI.pdb
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Azure.Core.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Azure.Identity.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Humanizer.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Mono.TextTemplating.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Newtonsoft.Json.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.ClientModel.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.CodeDom.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Composition.Convention.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Composition.Hosting.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Composition.Runtime.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Composition.TypedParts.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Memory.Data.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.csproj.AssemblyReference.cache
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfoInputs.cache
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.AssemblyInfo.cs
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\scopedcss\bundle\WebAPI.styles.css
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\382nki23qi-{0}-oyfcuc9hs2-oyfcuc9hs2.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\3x37q67pmf-{0}-21ywlrnapt-21ywlrnapt.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\t25emoew1s-{0}-kt8er32esn-kt8er32esn.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\w8s3x4u7nk-{0}-2l64wdplxt-2l64wdplxt.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\y384v64ql8-{0}-clcnilss6o-clcnilss6o.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\tja3dwboa9-{0}-ko9jcjkb39-ko9jcjkb39.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\jrz88kn239-{0}-z8p67x87o4-z8p67x87o4.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\eknvcjigjp-{0}-al1qcx2f1m-al1qcx2f1m.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\compressed\y3ih06mmho-{0}-6fsh3xkww0-6fsh3xkww0.gz
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\staticwebassets.build.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\staticwebassets.development.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\swae.build.ex.cache
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.csproj.Up2Date
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\refint\WebAPI.dll
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.pdb
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\WebAPI.genruntimeconfig.cache
+E:\Training\ASP.NET Core\TasksManagement\WebAPI\obj\Debug\net10.0\ref\WebAPI.dll

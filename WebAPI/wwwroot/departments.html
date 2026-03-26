@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Department List - Task Manager</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div id="app">
+        <navbar current-page="departments" search-placeholder="Search department name..." @search="onSearch"></navbar>
+
+        <div class="container">
+            <h1>🏢 Department List</h1>
+
+            <div v-if="loading" class="loading">Đang tải Department...</div>
+            <div v-else-if="error" class="error">{{ error }}</div>
+            <template v-else>
+                <div v-if="searchTerm && filteredList.length > 0">
+                    <h2>Search Results for "{{ searchTerm }}"</h2>
+                </div>
+                <div class="error" v-else-if="searchTerm">
+                    <p>No results found!</p>
+                </div>
+
+                <label for="pageNum">Rows of page: </label>
+                <input 
+                    type="number" 
+                    id="pageNum"
+                    :placeholder="number" 
+                    v-model.number="perPageSample"
+                    @keyup.enter="onPageChange(1)"
+                >
+
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>Department ID</th>
+                            <th>Department Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr v-for="d in displayList" :key="d.departmentId">
+                            <td>{{ d.departmentId }}</td>
+                            <td>{{ d.departmentName || '-' }}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </template>
+        </div>
+
+        <pagination :total-pages="totalPages" :per-page="perPage" :current-page="currentPage"
+            @pagechanged="onPageChange"></pagination>
+        <span class="page-info">Page {{ currentPage }} of {{ totalPages }}</span>
+
+    </div>
+
+    <script src="./components/navbar.js"></script>
+    <script src="./components/pagination.js"></script>
+    <script>
+        const { createApp } = Vue;
+
+        createApp({
+            components: { Navbar, Pagination },
+            data() {
+                return {
+                    searchTerm: '',
+                    departments: [],
+                    loading: true,
+                    error: null,
+                    currentPage: 1,
+                    perPage: 2,
+                    perPageSample: 2,
+                }
+            },
+            computed: {
+                filteredList() {
+                    if (!this.searchTerm) return [];
+                    return this.departments.filter(d =>
+                        (d.departmentName || '').toLowerCase().includes(this.searchTerm.toLowerCase())
+                    );
+                },
+                displayList() {
+                    return this.searchTerm && this.filteredList.length > 0
+                        ? this.filteredList
+                        : this.paginatedDepartments;
+                },
+                totalPages() {
+                    return Math.max(1, Math.ceil(this.departments.length / this.perPage));
+                },
+                paginatedDepartments() {
+                    const start = (this.currentPage - 1) * this.perPage;
+                    return this.departments.slice(start, start + this.perPage);
+                },
+            },
+            mounted() {
+                this.fetchDepartments();
+            },
+            methods: {
+                onSearch(term) {
+                    this.searchTerm = term;
+                },
+                async fetchDepartments() {
+                    try {
+                        const response = await fetch('/api/DepartmentLists');
+                        if (!response.ok) throw new Error('Không thể tải Department');
+                        this.departments = await response.json();
+                    } catch (err) {
+                        this.error = err.message;
+                    } finally {
+                        this.loading = false;
+                    }
+                },
+                onPageChange(page) {
+                    console.log("Page changed to:", page);
+                    console.log("Total pages:", this.totalPages);
+                    this.perPage = this.perPageSample;
+                    if (page < 1 || page > this.totalPages) {
+                        console.warn("Invalid page number:", page);
+                        return;
+                    }
+                    this.currentPage = page;
+                },
+            }
+        }).mount('#app');
+    </script>
+</body>
+</html>

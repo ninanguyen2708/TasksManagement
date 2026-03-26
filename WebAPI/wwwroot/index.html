@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Manager - Dashboard</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div id="app">
+        <navbar current-page="home" search-placeholder="Search..." @search="onSearch"></navbar>
+
+        <div class="container">
+            <h1>📋 Task & Employee Management</h1>
+            <p class="dashboard-subtitle">Welcome! Select a section to manage.</p>
+
+            <div class="dashboard-cards">
+                <a href="tasks.html" class="dashboard-card card-tasks">
+                    <span class="card-icon">📝</span>
+                    <h2>Tasks</h2>
+                    <p>{{ taskCount }} tasks</p>
+                </a>
+                <a href="employees.html" class="dashboard-card card-employees">
+                    <span class="card-icon">👥</span>
+                    <h2>Employees</h2>
+                    <p>{{ employeeCount }} employees</p>
+                </a>
+                <a href="categories.html" class="dashboard-card card-categories">
+                    <span class="card-icon">📂</span>
+                    <h2>Categories</h2>
+                    <p>{{ categoryCount }} categories</p>
+                </a>
+                <a href="departments.html" class="dashboard-card card-departments">
+                    <span class="card-icon">🏢</span>
+                    <h2>Departments</h2>
+                    <p>{{ departmentCount }} departments</p>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <script src="./components/navbar.js"></script>
+    <script>
+        const { createApp } = Vue;
+
+        createApp({
+            components: { Navbar },
+            data() {
+                return {
+                    taskCount: 0,
+                    employeeCount: 0,
+                    categoryCount: 0,
+                    departmentCount: 0,
+                }
+            },
+            mounted() {
+                this.fetchCounts();
+            },
+            methods: {
+                onSearch(term) {
+                    // Redirect to tasks page with search
+                    if (term) window.location.href = 'tasks.html';
+                },
+                async fetchCounts() {
+                    try {
+                        const [tasks, employees, categories, departments] = await Promise.all([
+                            fetch('/api/TaskLists').then(r => r.ok ? r.json() : []),
+                            fetch('/api/EmployeeLists').then(r => r.ok ? r.json() : []),
+                            fetch('/api/CategoryLists').then(r => r.ok ? r.json() : []),
+                            fetch('/api/DepartmentLists').then(r => r.ok ? r.json() : []),
+                        ]);
+                        this.taskCount = tasks.length;
+                        this.employeeCount = employees.length;
+                        this.categoryCount = categories.length;
+                        this.departmentCount = departments.length;
+                    } catch (err) {
+                        console.error('Failed to fetch counts:', err);
+                    }
+                }
+            }
+        }).mount('#app');
+    </script>
+</body>
+</html>
